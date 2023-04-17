@@ -1,4 +1,4 @@
-# In North Germany we say Moin! 🌊
+# In North Germany we say "Moin!" 🌊
 
 My Name is **Carsten Jahnke** from Glückstadt near Hamburg in Germany. I am a ***webdevelopment student*** at **neuefische** and become a new digital talent (*i hope so* 😅) 
 
@@ -10,3 +10,4 @@ Let me tell u something about me:
 - Gaming on my PlayStation 5 🎮
 - electronic music (*called **EDM***) 🔊
 - ~~a little bit~~, sorry a ***HUGE*** BBQ 🥩
+- I am a local <a href="https://www.carstenjahnke.de/" target="_blank">DJ, moderator and Entertainer</a> 🎤
