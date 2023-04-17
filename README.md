@@ -1,4 +1,4 @@
-# Welcome to my first repository! ✍️
+# In North Germany we say Moin! 🌊
 
 My Name is **Carsten Jahnke** from Glückstadt near Hamburg in Germany. I am a ***webdevelopment student*** at **neuefische** and become a new digital talent (*i hope so* 😅) 
 
