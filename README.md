@@ -10,3 +10,5 @@ Let me tell u something about me:
 - Gaming on my PlayStation 5
 - electronic music (*called **EDM***)
 - ~~a little bit~~, sorry a ***HUGE*** BBQ
+
+I hope you like my alltime first repo.
