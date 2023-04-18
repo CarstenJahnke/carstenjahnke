@@ -1,3 +1,6 @@
+<img src="profile.gif " alt="Carsten Jahnke Name Animation" width="60%" height="60%">
+
+
 # In North Germany we say "Moin!" 🌊
 
 My Name is **Carsten Jahnke** from Glückstadt near Hamburg in Germany. I am a ***webdevelopment student*** at **neuefische** and become a new digital talent (*i hope so* 😅) 
