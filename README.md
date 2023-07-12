@@ -5,7 +5,7 @@
 
 My Name is **Carsten Jahnke** from Glückstadt near Hamburg in Germany. I am a ***web development student*** at **neuefische** and become a new digital talent (*i hope so* 😅) 
 
-![Picture from Carsten Jahnke](profileimg.jpeg)
+![Picture from Carsten Jahnke](https://github.com/CarstenJahnke/carstenjahnke/assets/130060363/2e2b8ebe-5ed8-4743-8e25-978d275950e5)
 
 Let me tell u something about me:
 
