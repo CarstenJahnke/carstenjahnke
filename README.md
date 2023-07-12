@@ -11,7 +11,7 @@ Let me tell u something about me:
 
 ### Hobbies:
 - Gaming on my PlayStation 5 🎮
-- electronic music (*called **EDM***) 🔊
+- electronic music (*called **EDM***) 🔊 <a href="https://spotify.carstenjahnke.de/" target="_blank">Listen to my Spotify channel with over 30 different playlists</a>
 - ~~a little bit~~, sorry a ***HUGE*** BBQ 🥩
 - I am a local <a href="https://www.carstenjahnke.de/" target="_blank">DJ, moderator and Entertainer</a> 🎤
 
